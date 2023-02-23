@@ -1,0 +1,118 @@
+[
+      {
+         "category": "Sports",
+         "type": "multiple",
+         "difficulty": "easy",
+         "question": "In baseball, how many fouls are an out?",
+         "correct_answer": "0",
+         "incorrect_answers": [
+            "5",
+            "3",
+            "2"
+         ]
+      },
+      {
+         "category": "Animals",
+         "type": "boolean",
+         "difficulty": "easy",
+         "question": "A bear does NOT defecate during hibernation. ",
+         "correct_answer": "True",
+         "incorrect_answers": [
+            "False"
+         ]
+      },
+      {
+         "category": "Science & Nature",
+         "type": "multiple",
+         "difficulty": "medium",
+         "question": "After which Danish city is the 72th element on the periodic table named?",
+         "correct_answer": "Copenhagen",
+         "incorrect_answers": [
+            "Odense",
+            "Herning",
+            "Skagen"
+         ]
+      },
+      {
+         "category": "Science: Computers",
+         "type": "boolean",
+         "difficulty": "easy",
+         "question": "The Windows 7 operating system has six main editions.",
+         "correct_answer": "True",
+         "incorrect_answers": [
+            "False"
+         ]
+      },
+      {
+         "category": "Entertainment: Video Games",
+         "type": "multiple",
+         "difficulty": "medium",
+         "question": "What block in Minecraft has the highest blast resistance?",
+         "correct_answer": "Barrier",
+         "incorrect_answers": [
+            "Obsidian",
+            "Bedrock",
+            "Block of Diamond"
+         ]
+      },
+      {
+         "category": "Entertainment: Video Games",
+         "type": "multiple",
+         "difficulty": "hard",
+         "question": "In &quot;Super Mario Sunshine&quot;, how do you unlock the &quot;Corona Mountain&quot; level?",
+         "correct_answer": "By clearing every 7th episode",
+         "incorrect_answers": [
+            "By obtaining 70 Shines",
+            "By clearing every episode involving a &quot;Secret&quot;",
+            "By unlocking every nozzle F.L.U.D.D can use"
+         ]
+      },
+      {
+         "category": "Art",
+         "type": "multiple",
+         "difficulty": "hard",
+         "question": "Which of these is not an additional variation of the color purple?",
+         "correct_answer": "Kobicha",
+         "incorrect_answers": [
+            "Byzantium",
+            "Pomp and Power",
+            "Palatinate"
+         ]
+      },
+      {
+         "category": "Entertainment: Television",
+         "type": "multiple",
+         "difficulty": "hard",
+         "question": "In 2008, British celebrity chef Gordon Ramsay believes he almost died after suffering what accident in Iceland while filming?",
+         "correct_answer": "Slipping off a cliff, and nearly drowning in icy water",
+         "incorrect_answers": [
+            "Crash landing when arriving at Keflav&iacute;k airport",
+            "A minor car accident in a snowstorm",
+            "Being served under-cooked chicken at his hotel"
+         ]
+      },
+      {
+         "category": "Science: Gadgets",
+         "type": "multiple",
+         "difficulty": "hard",
+         "question": "Which round does a WW2 M1 Garand fire?",
+         "correct_answer": ".30-06",
+         "incorrect_answers": [
+            ".308",
+            "7.62",
+            "7.62x51mm"
+         ]
+      },
+      {
+         "category": "Entertainment: Film",
+         "type": "multiple",
+         "difficulty": "medium",
+         "question": "Which of these Disney classics was released in 1970?",
+         "correct_answer": "The Aristocats",
+         "incorrect_answers": [
+            "One Hundred and One Dalmatians",
+            "The Fox and the Hound",
+            "The Little Mermaid"
+         ]
+      }
+]
